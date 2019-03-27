@@ -33,7 +33,7 @@ $ react-native link rn-fetch-blob
 
 Linking rn-fetch-blob **should only be done once**, reinstalling node_modules with npm or yarn does not require running the above command again.
 
-To troubleshoot linking, refer to [the react-native-fetch-blob installation instructions](https://github.com/wkh237/react-native-fetch-blob#user-content-installation).
+To troubleshoot linking, refer to [the rn-fetch-blob installation instructions](https://github.com/joltup/rn-fetch-blob#user-content-installation).
 
 ## Usage
 
